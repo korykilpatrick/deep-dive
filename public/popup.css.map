@@ -1,0 +1,1 @@
+{"version":3,"file":"../popup.css","mappings":";;;AAAA,cAAc;AACd,oBAAoB;AACpB,mBAAmB,C","sources":["webpack://deep-dive/./src/popup/index.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;"],"names":[],"sourceRoot":""}
